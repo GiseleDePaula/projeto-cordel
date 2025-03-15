@@ -67,12 +67,15 @@ section {
 
 #img01 {
     background: url('imagens/background001.jpg') center center no-repeat fixed;
-    background-size: 100% 100%;  
+    background-size: 100% 100%; 
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.418);  
+
 }
 
 #img02 {
     background: url('imagens/background002.jpg') center center no-repeat fixed;
-    background-size: 100% 100%;  
+    background-size: 100% 100%;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.418);  
 }
 
 .imagem p {
@@ -80,6 +83,8 @@ section {
     display: inline-block;
     color: white;
     padding: 10px;
+    text-shadow: 2px 2px 0px black;
+    border-radius: 5px;
 }
 
 
