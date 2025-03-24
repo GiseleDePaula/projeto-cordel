@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-    color: lightgrey;
+    color: rgba(247, 223, 12, 0.795);
     text-decoration: underline;
 }
 
